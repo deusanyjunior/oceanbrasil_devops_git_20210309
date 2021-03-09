@@ -1,5 +1,0 @@
-senhas
-
-- wifi 
--- user: antonio
--- password: dejota
